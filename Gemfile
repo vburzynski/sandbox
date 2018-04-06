@@ -37,6 +37,7 @@ group :development, :test do
   gem 'bullet'
   gem 'rubocop'
   gem 'dotenv-rails'
+  gem 'launchy'
 end
 
 group :development do
